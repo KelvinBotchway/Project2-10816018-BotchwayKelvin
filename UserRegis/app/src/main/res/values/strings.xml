@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">UserRegis</string>
+    <string name="login">login</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="i_m_new_here">New User? Sign Up</string>
+    <string name="signup">SignUp</string>
+    <string name="fullname">fullname</string>
+    <string name="email">email</string>
+    <string name="already_have_an_account">Already Registered? <i><b><u>Login</u></b></i></string>
+    <string name="hello_user">Hello User!</string>
+    <string name="signuphere">New User? <u><b><i>Sign Up</i></b></u></string>
+    <string name="loginhere">Already Registered? <i><b><u>Login</u></b></i></string>
+</resources>
